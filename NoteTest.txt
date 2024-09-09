@@ -1,1 +1,2 @@
 This comment as added by dev2
+It's an empty file filled by dev1
